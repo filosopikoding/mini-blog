@@ -3,6 +3,6 @@
 
 Membuat Aplikasi Mini Blog Sederhana Menggunakan Laravel 6. Berikut ini Cara Menjalankan Aplikasinya
 
-- Setting dulu file .env (Sesuaikan nama databasenya)
-- Setelah itu Jalankan Perintah **php artisan migrate::fresh --seed**
-- Jika sudah tuliskan perintah berikutnya yaitu php artisan serve
+- Setting dulu file .env (sesuaikan nama databasenya)
+- Setelah itu Jalankan Perintah **php artisan migrate::fresh --seed** Untuk mengenerate table yg dibutuhkan serta isi databasenya
+- Jika sudah, Silahkan tuliskan perintah berikutnya yaitu **php artisan serve**
